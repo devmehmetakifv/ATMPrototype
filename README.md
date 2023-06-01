@@ -8,19 +8,19 @@ An ATM prototype developed in C++ using OOP techniques and database communicatio
 
 You can create an account and use those credentials to login to the system.
 
-* ### View balance functionality
+* ### View Balance Functionality
 
 You can view your current total balance.
 
-* ### Withdraw money functionality
+* ### Withdraw Money Functionality
 
 You can withdraw money from your bank account.
 
-* ### Deposit funds functionality
+* ### Deposit Funds Functionality
 
 You can deposit funds to your bank account.
 
-* ### Transfer money functionality
+* ### Transfer Money Functionality
 
 You can transfer money between accounts by entering their account number.
 
