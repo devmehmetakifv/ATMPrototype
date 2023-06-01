@@ -30,7 +30,6 @@ User datas are being kept in a JSON file named "database.json" which represents 
 
 # Attention!
 
-This project is developed for and end-of-term task by a software engineering freshman.
-Therefore you can use this project however you want.
+This project is developed for and end-of-term task by a software engineering freshman, therefore you can use this project however you want.
 
 ## Educational purposes only!
