@@ -28,7 +28,7 @@ You can transfer money between accounts by entering their account number.
 
 User datas are being kept in a JSON file named "database.json" which represents the database. Make sure this file is named "database.json" and kept within the same directory with the main .exe file, otherwise the program will throw a runtime error.
 
-You can read the report file named "ATMReport" for more details and documentation.
+You can read the report file named "ATMReport.docx" for more details and documentation.
 
 # Attention!
 
