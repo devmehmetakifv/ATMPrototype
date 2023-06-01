@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+            "account_number": "54869",
+            "age": "18",
+            "birth_place": "Cankiri",
+            "identity_number": "53647283948",
+            "name": "Emir",
+            "pin": "64736",
+            "surname": "Tasli",
+            "total_balance": 275
+        },
+        {
+            "account_number": "46514",
+            "age": "18",
+            "birth_place": "Kastamonu",
+            "identity_number": "74653647364",
+            "name": "Akif",
+            "pin": "11111",
+            "surname": "VARDAR",
+            "total_balance": 10003400
+        },
+        {
+            "account_number": "43788",
+            "age": "29",
+            "birth_place": "Denemonu",
+            "identity_number": "63764538476",
+            "name": "Denemettin",
+            "pin": "00000",
+            "surname": "Denemoglu",
+            "total_balance": 2150
+        },
+        {
+            "account_number": "71379",
+            "age": "19",
+            "birth_place": "istanbul",
+            "identity_number": "12345678912",
+            "name": "burhan",
+            "pin": "12345",
+            "surname": "caltik",
+            "total_balance": 1200
+        },
+        {
+            "account_number": "31450",
+            "age": "19",
+            "birth_place": "istanbul",
+            "identity_number": "1234567897",
+            "name": "gokhan",
+            "pin": "87345",
+            "surname": "kilic",
+            "total_balance": 1000
+        }
+    ]
+}
